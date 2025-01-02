@@ -50,6 +50,6 @@ I'm skilled in a variety of technologies and frameworks. Here's a snapshot of my
 Whether you're interested in collaborating on a project, have an idea to share, or just want to say hello, I'd love to hear from you! Here's how you can reach me:
 
 - **📧 Email:** <a href="mailto:dheojasper26@gmail.com">dheojasper26@gmail.com</a>
-- **💼 LinkedIn:** [Dheo Jasper](https://www.linkedin.com/in/dheo-jasper-dumalogdog-3a8a3032a/) *(Add a LinkedIn link if you have one!)*
+- **💼 LinkedIn:** [Dheo Jasper](https://www.linkedin.com/in/dheo-jasper-dumalogdog-3a8a3032a/)
 
 Let’s create something amazing together! 🚀
