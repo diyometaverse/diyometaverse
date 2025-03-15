@@ -19,10 +19,8 @@ I'm skilled in a variety of technologies and frameworks. Here's a snapshot of my
 <p>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django badge" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI badge" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Native PHP badge" /></a>
   <a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST_API-333333?style=for-the-badge&logo=rest&logoColor=white" alt="REST API badge" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"><img src="https://img.shields.io/badge/VB.NET-0078D4?style=for-the-badge&logo=.net&logoColor=white" alt="VB.NET badge" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge" /></a>
 </p>
 
 ### **Cloud & DevOps**
